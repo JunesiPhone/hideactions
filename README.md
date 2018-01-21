@@ -1,7 +1,7 @@
 HideActions
 ----
 
-Hide the camera, flashlight, home, and home text.
+Hide the camera, flashlight, home, and home text on the lock screen.
 
 Electra Install
 ----
