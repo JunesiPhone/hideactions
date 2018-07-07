@@ -10,6 +10,9 @@
 - (void)_addHomeAffordance{
 
 }
+-(void)_addControlCenterGrabber{
+
+}
 %end
 
 %hook SBDashBoardQuickActionsViewController
